@@ -1,0 +1,4 @@
+/src/main/resources/maven.properties
+/target/
+/src/test/
+/.idea/
