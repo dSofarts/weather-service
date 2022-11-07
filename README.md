@@ -26,7 +26,7 @@ Get information about the weather in the city at the current moment:
     Weather: Light rain shower
     Last update: 2022-11-06 13:30
 
-Complete!
+---
 
 If you have any questions, please contact by email: [DronovEgorVl@yandex.com](mailto:DronovEgorVl@yandex.com)
 <div id="badges">
